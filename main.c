@@ -20,7 +20,6 @@ int main(int argc, char *argv[])
     g_print("id:%d\r\n", id);
 
     g_print("- - - End - - -\r\n");
-    /*git push*/
 
     return EXIT_SUCCESS;
 }
